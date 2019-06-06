@@ -1,0 +1,18 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>images/blank.png</file>
+    <file>images/user.png</file>
+    <file>images/exit.png</file>
+    <file>images/arrow-left.png</file>
+    <file>images/arrow-right.png</file>
+    <file>images/add_user.png</file>
+    <file>images/add-notes.png</file>
+    <file>images/delete-file.png</file>
+    <file>images/edit.png</file>
+    <file>images/edit_user.png</file>
+    <file>images/history.png</file>
+    <file>images/logout.png</file>
+    <file>images/remove_user.png</file>
+    <file>images/speaker.png</file>
+  </qresource>
+</RCC>
